@@ -1,6 +1,4 @@
 ---
 problem: 
-difficulty: 
-submission: 
-topics:
+tags: []
 ---
