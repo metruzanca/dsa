@@ -1,6 +1,7 @@
 # Data Structures and Algorithms
 Obsidian Vault / second brain for notes on DSA+Lc. Files inside `dsa/` contain base data structures and notes about the topic as well as containing links to patterns used in problems in the `lc/` directory.
 
+> **Note** This being an Obsidian Vault first and git repository second, it's made using wiki-links and not markdown links.
 ## Learning Process
 Decided to learn Data Structures and Algorithms "[properly this time](https://youtu.be/KWRndCsgIXY?t=40)" but also trying to keep things fun. (while also trying to not waste loads of time)
 
