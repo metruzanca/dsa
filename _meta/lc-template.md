@@ -1,5 +1,5 @@
 ---
-problem: 
+problem:
 tags: []
 related:
 ---
