@@ -7,7 +7,15 @@
       "key": "P"
     }
   ],
-  "command-palette:open": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
   "editor:swap-line-up": [
     {
       "modifiers": [
@@ -24,11 +32,10 @@
       "key": "ArrowDown"
     }
   ],
-  "darlal-switcher-plus:switcher-plus:open-commands": [
+  "darlal-switcher-plus:switcher-plus:open": [
     {
       "modifiers": [
-        "Mod",
-        "Shift"
+        "Mod"
       ],
       "key": "P"
     }

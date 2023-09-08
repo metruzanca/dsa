@@ -2,8 +2,9 @@
   "file-explorer",
   "global-search",
   "graph",
+  "backlink",
   "canvas",
-  "properties",
   "page-preview",
+  "command-palette",
   "editor-status"
 ]

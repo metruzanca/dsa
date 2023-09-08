@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "lc",
+      "folder": "lc/problems",
       "template": "_meta/lc-template.md"
     }
   ],
   "syntax_highlighting": true,
   "enabled_templates_hotkeys": [],
   "startup_templates": [],
-  "enable_ribbon_icon": false
+  "enable_ribbon_icon": true
 }

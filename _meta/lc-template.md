@@ -1,6 +1,5 @@
 ---
-problem: 
-difficulty: 
-submission: 
-topics:
+problem:
+tags: []
+related:
 ---
