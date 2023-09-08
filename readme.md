@@ -1,4 +1,4 @@
-# Data Structures and Algorithms
+# [Data Structures and Algorithms](https://github.com/metruzanca/dsa)
 Obsidian Vault / second brain for notes on DSA+Lc. Files inside `dsa/` contain base data structures and notes about the topic as well as containing links to patterns used in problems in the `lc/` directory.
 
 > **Note** This being an Obsidian Vault first and git repository second, it's made using wiki-links and not markdown links.
