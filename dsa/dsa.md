@@ -2,3 +2,6 @@ Index for all fundamental data structures and algorithms w/ examples of where th
 ## Patterns
 - [[Linked Lists]]
 - [[Binary Tree]]
+- [[Hashmap]]
+- [[Math]]
+- [[Matrix]]
